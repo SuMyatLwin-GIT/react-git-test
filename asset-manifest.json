@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/%7Breact-git-test%7D/static/css/main.073c9b0a.css",
-    "main.js": "/%7Breact-git-test%7D/static/js/main.20593663.js",
-    "static/media/logo.svg": "/%7Breact-git-test%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%7Breact-git-test%7D/index.html",
-    "main.073c9b0a.css.map": "/%7Breact-git-test%7D/static/css/main.073c9b0a.css.map",
-    "main.20593663.js.map": "/%7Breact-git-test%7D/static/js/main.20593663.js.map"
+    "main.css": "/react-git-test/static/css/main.073c9b0a.css",
+    "main.js": "/react-git-test/static/js/main.411e56eb.js",
+    "static/media/logo.svg": "/react-git-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-git-test/index.html",
+    "main.073c9b0a.css.map": "/react-git-test/static/css/main.073c9b0a.css.map",
+    "main.411e56eb.js.map": "/react-git-test/static/js/main.411e56eb.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.20593663.js"
+    "static/js/main.411e56eb.js"
   ]
 }
