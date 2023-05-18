@@ -2,7 +2,7 @@
   "name": "react-git-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{sumyatlwin-git}.github.io/{react-git-test}",
+  "homepage": "http://sumyatlwin-git.github.io/react-git-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
